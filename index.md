@@ -33,7 +33,7 @@ _The one journal that will never run out of news_
 
 |  Date         |  Headline                                                   |  Link                       |
 |---------------|-------------------------------------------------------------|-----------------------------|
-| unr           | Who is ICE actually deporting?                              | [Read →](#ice)              |
+| 23/06/2025    | Who is ICE actually deporting?                              | [Read →](/ice.md)           |
 | unr           | What are some of Trump's worst executive orders?            | [Read →](#executive-orders) |
 | unr           | Trump's other controversial moves                           | [Read →](#trump-controversy)|
 
