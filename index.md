@@ -12,7 +12,7 @@ _The one journal that will never run out of news_
 
 <details open>
   <summary><strong>Who is ICE actually deporting?</strong></summary>
-  <p>He might call it fake news, but it's straight from his government. <a href="ice.md">Read →</a></p>
+  <p>He might call it fake news, but it's straight from his government. <a href="ice">Read →</a></p>
 </details>
 
 <details>
@@ -33,7 +33,7 @@ _The one journal that will never run out of news_
 
 |  Date         |  Headline                                                   |  Link                       |
 |---------------|-------------------------------------------------------------|-----------------------------|
-| 23/06/2025    | Who is ICE actually deporting?                              | [Read →](/ice.md)           |
+| 23/06/2025    | Who is ICE actually deporting?                              | [Read →](/ice)           |
 | unr           | What are some of Trump's worst executive orders?            | [Read →](#executive-orders) |
 | unr           | Trump's other controversial moves                           | [Read →](#trump-controversy)|
 
